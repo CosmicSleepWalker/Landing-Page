@@ -68,6 +68,8 @@ body {
 .row-two {
     justify-content: center;
     align-items: center;
+    padding: 5% 0;
+    margin: auto 15%;
 }
 
 .row-two-information {
@@ -80,7 +82,7 @@ body {
 
 .item {
     width: 100%;
-    min-height: 100px;
+    min-height: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
