@@ -124,6 +124,15 @@ body {
     color: white;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: white;
+    padding: 1% 0;
+}
+
 ul {
     margin: 0;
     padding: 0;
